@@ -1,0 +1,12 @@
+{
+  "name": "wasm-pretty-ms",
+  "version": "0.1.0",
+  "files": [
+    "wasm_pretty_ms_bg.wasm",
+    "wasm_pretty_ms.js",
+    "wasm_pretty_ms.d.ts"
+  ],
+  "module": "wasm_pretty_ms.js",
+  "types": "wasm_pretty_ms.d.ts",
+  "sideEffects": false
+}
